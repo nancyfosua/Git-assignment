@@ -1,0 +1,16 @@
+  162  cat id_rsa
+  163  cat id_rsa.pud
+  164  cat id_rsa.pub
+  165  git remote add nancy git@github.com:nancyfosua/Git-assignment.git
+  166  git remote add nancy git@github.com:nancyfosua/Git-assignment
+  167  cd AMMI-git
+  168  cd ..
+  169  cd Desktop/AMMI-git
+  170  git remote add nancy git@github.com:nancyfosua/Git-assignment
+  171  git branch
+  172  git push -u nancy master
+  173  git remote add nancy1 git@github.com:nancyfosua/Git-assignment.git
+  174  git push -u nancy1 master
+  175  git remote add nancy1 git@github.com:nancyfosua/Git-assignment.git
+  176  git push -u nancy1 master
+  177  git branch -a
